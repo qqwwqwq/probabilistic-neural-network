@@ -11,4 +11,7 @@
 4. Each time an activity period is completed, a new thread will be created. You can add custom code in the action_task function, as shown below:
    def action_task(label):
     # Add your custom code here
-5. Just replace `URL_TO_TRAINING_SET` with the actual URL for the training dataset download link, and your `README.md` will be ready to use!
+5. Replace `URL_TO_TRAINING_SET` with the actual URL for the training dataset download link, and your `README.md` will be ready to use!
+
+6. If you are using this code, cite our work
+He, Xin, Vibekananda Dutta, Teresa Zielinska, and Takafumi Matsumaru. "A Probabilistic Approach Based on Combination of Distance Metrics and Distribution Functions for Human Postures Classification." In 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), pp. 1514-1521. IEEE, 2023.
