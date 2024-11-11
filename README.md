@@ -11,7 +11,6 @@
 4. Each time an activity period is completed, a new thread will be created. You can add custom code in the action_task function, as shown below:
    def action_task(label):
     # Add your custom code here
-5. Replace `URL_TO_TRAINING_SET` with the actual URL for the training dataset download link, and your `README.md` will be ready to use!
 
    # If you are using this code, cite our work
    
